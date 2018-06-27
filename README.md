@@ -2,6 +2,13 @@
 
 NEngSocket is a custom class that Design to commentate with a host server using host IP address and port based on TCP server connection. This class have two separates methods to communicate with the server. Class is based on Swift language and require both UIKit and SystemConfiguration frameworks for function the functionalities.
 
+<p align="center">
+  <img src="https://github.com/NadeeshanEngineering/NEngSocket-Connection/blob/master/socket_example.png">
+</p>
+<p align="center">
+  <img src="https://github.com/NadeeshanEngineering/NEngSocket-Connection/blob/master/web_socket_example.png">
+</p>
+<br />
 
 Testing NEngSocket example:
 
@@ -11,7 +18,7 @@ To test the example file of NEngSocketConnection_Example project, you can use ne
 
 		2. Type "nc -vl 127.0.0.1 8080" on the terminal window and hit enter.
 
-
+<br />
 To use NEngSocketConnection in your project, please follow following steps
 
 1. Add (or Drag and drop to Your project in Xcode) NEngSocket.swift files to your project
@@ -51,7 +58,7 @@ To use NEngSocketConnection in your project, please follow following steps
               }
           }
 
-
+<br />
 To use NEngWebSocketConnection in your project, please follow following steps
           
 1. Add (or Drag and drop to Your project in Xcode) NEngSocket.swift files to your project
