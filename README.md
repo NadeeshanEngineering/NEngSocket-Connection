@@ -7,9 +7,9 @@ Testing NEngSocket example:
 
 To test the example file of NEngSocketConnection_Example project, you can use netcat local host utility. The netcat utility is used for just about anything under the sun involving TCP or UDP. It can open TCP connections, send UDP packets, listen on arbitrary TCP and UDP ports, do port scanning, and deal with both IPv4 and IPv6. Unlike telnet, nc scripts nicely, and separates error messages onto standard error instead of sending them to standard output, as telnet does with some.
 
-        1. Launch terminal form the Launchpad in your mac.
+		1. Launch terminal form the Launchpad in your mac.
 
-        2. Type "nc -vl 127.0.0.1 8080" on the terminal window and hit enter.
+		2. Type "nc -vl 127.0.0.1 8080" on the terminal window and hit enter.
 
 
 To use NEngSocketConnection in your project, please follow following steps
